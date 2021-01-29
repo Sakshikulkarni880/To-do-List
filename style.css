@@ -135,11 +135,11 @@ select{
 
 @media screen and (max-width: 600px){
   form input{
-    width : 10rem;
+    width : 12rem;
   }
   select{
     color: #330033;
-    width: 3rem;
+    width: 4rem;
     cursor: pointer;
     padding: 1rem;
   }
