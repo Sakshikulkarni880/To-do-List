@@ -132,3 +132,16 @@ select{
   background: #f7fffe;
   color: #330033;
 }
+
+@media screen and (max-width: 900px){
+  form input{
+    width : 150px;
+  }
+  select{
+    color: #330033;
+    width: 25px;
+    cursor: pointer;
+    padding: 1rem;
+  }
+
+}
