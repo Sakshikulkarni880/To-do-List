@@ -137,11 +137,6 @@ select{
   form input{
     width : 12rem;
   }
-  select{
-    color: #330033;
-    width: 4rem;
-    cursor: pointer;
-    padding: 1rem;
-  }
+  
 
 }
